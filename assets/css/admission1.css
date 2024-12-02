@@ -1,0 +1,405 @@
+.admission-section .preschool-admission-heading h2,
+.admission-section .we-all-want p {
+    text-transform: none !important;
+    margin-bottom: 10px;
+    text-shadow: none !important;
+    -webkit-animation: none !important;
+    font-weight: 400 !important
+}
+
+.admission-section .preschool-admission-heading h2 {
+    color: #fced1e;
+    font-family: Appleberry;
+    font-size: 50px;
+    line-height: 55px;
+    animation: none !important;
+    text-align: left
+}
+
+.admission-testi-slider {
+    padding: 15px
+}
+
+section.about-us-section {
+    background-color: #0066b2;
+    background-image: none;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center top;
+    position: relative;
+    padding: 50px 0 200px;
+    margin-top: 0;
+    z-index: 1
+}
+
+.admission-section .we-all-want p {
+    color: #fff;
+    font-family: 'open sans';
+    font-size: 16px;
+    line-height: 26px;
+    animation: none !important;
+    text-align: left
+}
+
+.admission-form h2,
+.admission-section .newicons p {
+    -webkit-animation: none !important;
+    text-align: left;
+    font-family: 'open sans';
+    text-transform: none !important;
+    text-shadow: none !important
+}
+
+.admission-section img {
+    height: 50px;
+    width: 50px
+}
+
+.admission-section .newicons p {
+    color: #fff;
+    font-size: 15px;
+    font-weight: 400 !important;
+    margin-bottom: 10px;
+    line-height: 20px;
+    animation: none !important
+}
+
+.admission-section-2 .single-feature h3,
+.admission-section-2 .single-feature p {
+    font-weight: 400;
+    color: #000;
+    text-transform: capitalize;
+    margin-bottom: 10px;
+    margin-top: 10px
+}
+
+.admission-form {
+    background-color: #e30045;
+    padding: 20px;
+    border-radius: 20px
+}
+
+.admission-pink-background,
+.admission-section-2,
+.testimonial-section-admission {
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center top;
+    position: relative
+}
+
+.admission-form h2 {
+    font-size: 35px;
+    color: #ffcb00;
+    font-weight: 700;
+    margin-bottom: 10px;
+    line-height: 40px;
+    animation: none !important
+}
+
+.admission-form p {
+    font-size: 16px;
+    color: #fff;
+    font-family: 'open sans'
+}
+
+.admission-form .form-btn {
+    background-color: #ffcb00
+}
+
+.admission-section-2 {
+    background-image: url(../img/admission/combined-bg.png);
+    padding: 50px 0 450px;
+    z-index: 1;
+    margin-top: -150px
+}
+
+.admission-section-2 .single-feature {
+    background: #ffff;
+    padding: 40px;
+    position: relative;
+    -webkit-transition: .5s;
+    transition-duration: .5s;
+    transition-delay: 0s;
+    margin-bottom: 30px;
+    box-shadow: 0 3px 14px #838080;
+    border-radius: 5%
+}
+
+.admission-section-2 .single-feature .image1,
+.admission-section-2 .single-feature .image2,
+.admission-section-2 .single-feature .image3 {
+    position: absolute;
+    top: -85px;
+    left: 41px
+}
+
+.admission-section-2 .single-feature h3 {
+    font-family: appleberry;
+    font-size: 20px;
+    padding-top: 50px
+}
+
+.admission-section-2 .single-feature p {
+    font-family: 'Open Sans';
+    font-size: 17px;
+    line-height: 28px
+}
+
+.admission-pink-background {
+    background-image: url(../img/admission/Asset45.png);
+    padding: 50px 0 0;
+    z-index: 1;
+    margin-top: -100px
+}
+
+.testimonial-section-admission {
+    padding: 50px 0;
+    z-index: 999
+}
+
+.testimonial-section-admission .single-slider .slider-text h3 {
+    color: #0066b2 !important;
+    font-family: Appleberry;
+    font-size: 70px;
+    font-weight: 400 !important;
+    text-transform: none !important;
+    margin-bottom: 20px;
+    text-shadow: none !important;
+    line-height: 80px;
+    -webkit-animation: none !important;
+    animation: none !important
+}
+
+.testimonial-section-admission .single-slider {
+    margin-top: -30%
+}
+
+.testimonial-section-admission .single-testimonial .test-text-img p {
+    position: absolute;
+    top: 35px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    font-weight: 400;
+    font-style: italic;
+    font-size: 14px;
+    line-height: 25px !important;
+    max-width: 225px;
+    margin: auto;
+    color: #fff
+}
+
+.call-us-div {
+    padding-top: 15px;
+    display: flex;
+    margin-bottom: 0
+}
+
+.admission-form-bottom-p {
+    color: #fff;
+    padding-left: 15px
+}
+
+.admission-section-2-row {
+    padding-top: 100px
+}
+
+.admission-readmore {
+    height: 30px;
+    text-align: bottom
+}
+
+@media only screen and (max-width:767px) {
+    .admission-section .preschool-admission-heading h2 {
+        color: #fced1e;
+        font-family: Appleberry;
+        font-size: 30px;
+        font-weight: 400 !important;
+        text-transform: none !important;
+        margin-bottom: 10px;
+        text-shadow: none !important;
+        line-height: 30px;
+        -webkit-animation: none !important;
+        animation: none !important;
+        text-align: left
+    }
+
+    .admission-section .newicons p,
+    .admission-section .we-all-want p {
+        color: #fff;
+        font-family: 'open sans';
+        margin-bottom: 10px;
+        line-height: 20px;
+        text-align: left
+    }
+
+    .admission-section .we-all-want p,
+    .testimonial-section-admission .single-slider .slider-text h3 {
+        -webkit-animation: none !important;
+        font-weight: 400 !important;
+        text-transform: none !important;
+        text-shadow: none !important
+    }
+
+    .testimonial-section-admission {
+        background-color: transparent;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center top;
+        position: relative;
+        padding: 50px 0;
+        z-index: 999
+    }
+
+    .admission-pink-background,
+    .admission-section-2,
+    section.about-us-section {
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center top;
+        position: relative;
+        z-index: 1
+    }
+
+    .testimonial-section-admission .single-slider {
+        margin-top: -20%
+    }
+
+    .testimonial-section-admission .single-slider .slider-text h3 {
+        color: #fff !important;
+        font-family: Appleberry;
+        font-size: 30px !important;
+        margin-bottom: 0;
+        line-height: 80px;
+        animation: none !important
+    }
+
+    .admission-section-2-row {
+        padding-top: 0
+    }
+
+    .admission-pink-background {
+        background-color: transparent;
+        background-image: url(../img/admission/Asset37-01.png);
+        padding: 50px 0 0;
+        margin-top: -50%
+    }
+
+    .admission-section-2 .single-feature .image1,
+    .admission-section-2 .single-feature .image2,
+    .admission-section-2 .single-feature .image3 {
+        position: absolute;
+        top: -85px;
+        left: 92px
+    }
+
+    .admission-section-2 {
+        background-color: transparent;
+        background-image: url(../img/admission/combinedBG.png);
+        padding: 50px 0 280px;
+        margin-top: -50%
+    }
+
+    .admission-section .col-md-6 {
+        padding-bottom: 15px
+    }
+
+    .admission-section .we-all-want p {
+        font-size: 16px;
+        animation: none !important
+    }
+
+    .admission-section .newicons p {
+        font-size: 12px;
+        font-weight: 400 !important;
+        text-transform: none !important;
+        text-shadow: none !important;
+        -webkit-animation: none !important;
+        animation: none !important
+    }
+
+    section.about-us-section {
+        background-color: #0066b2;
+        background-image: none;
+        padding: 50px 0 200px !important;
+        margin-top: 80px
+    }
+
+    .admission-readmore {
+        height: 25px;
+        margin-bottom: 20px;
+        text-align: bottom
+    }
+}
+
+@media only screen and (min-width:768px) and (max-width:991px) {
+
+    .admission-section .newicons p,
+    .admission-section .we-all-want p {
+        color: #fff;
+        font-family: 'open sans';
+        font-weight: 400 !important;
+        text-transform: none !important;
+        margin-bottom: 10px;
+        text-shadow: none !important;
+        line-height: 20px;
+        text-align: left
+    }
+
+    .admission-section .we-all-want p {
+        font-size: 16px;
+        -webkit-animation: none !important;
+        animation: none !important
+    }
+
+    .call-us-div {
+        padding-top: 15px;
+        display: flex;
+        margin-bottom: 100px
+    }
+
+    .preschool-admission-heading {
+        padding-top: 100px
+    }
+
+    .admission-section .newicons p {
+        font-size: 12px;
+        -webkit-animation: none !important;
+        animation: none !important
+    }
+}
+
+@media only screen and (min-width:992px) and (max-width:1199px) {
+
+    .admission-section .newicons p,
+    .admission-section .we-all-want p {
+        color: #fff;
+        font-family: 'open sans';
+        font-weight: 400 !important;
+        text-transform: none !important;
+        margin-bottom: 10px;
+        text-shadow: none !important;
+        line-height: 20px;
+        text-align: left
+    }
+
+    .admission-section .we-all-want p {
+        font-size: 16px;
+        -webkit-animation: none !important;
+        animation: none !important
+    }
+
+    .admission-section-2 .single-feature .image1 {
+        position: absolute;
+        top: -85px;
+        left: 20px
+    }
+
+    .admission-section .newicons p {
+        font-size: 12px;
+        -webkit-animation: none !important;
+        animation: none !important
+    }
+}
