@@ -1,0 +1,779 @@
+.life-at-lm,
+.life-at-lm-2,
+.life-at-lm-3,
+.life-at-lm-4,
+.life-at-lm-6 {
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center top
+}
+
+.life-at-lm,
+.life-at-lm-2,
+.life-at-lm-3,
+.life-at-lm-3.tieup,
+.life-at-lm-4,
+.life-at-lm-6 {
+    position: relative;
+    z-index: 1
+}
+
+.life-at-lm-3 h2,
+.locate-scetion h3 {
+    font-family: Appleberry;
+    font-weight: 400 !important
+}
+
+.admission-section.tie-up .preschool-admission-heading h2,
+.life-at-lm .preschool-admission-heading h2,
+.life-at-lm-2 .preschool-admission-heading h2,
+.life-at-lm-2 h2,
+.life-at-lm-5 h2,
+.life-at-lm-6 h2 {
+    color: #fced1e;
+    font-family: Appleberry;
+    font-size: 50px;
+    font-weight: 400 !important;
+    text-transform: none !important;
+    margin-bottom: 10px;
+    text-shadow: none !important;
+    line-height: 55px;
+    -webkit-animation: none !important;
+    animation: none !important;
+    text-align: left
+}
+
+.life-at-lm {
+    background-image: url(../img/life-at-lm/20.webp);
+    padding: 50px 00 150px 0;
+    margin-top: 0
+}
+
+.life-at-lm-2,
+.life-at-lm-6 {
+    background-image: url(../img/life-at-lm/5.webp);
+    padding: 100px 00 50px 0;
+    margin-top: -100px
+}
+
+.life-at-lm-3 {
+    background-image: url(../img/life-at-lm/life-at-little-millennium_2.1.webp);
+    padding: 50px 00 100px 0;
+    margin-top: 0
+}
+
+.life-at-lm-3.tieup {
+    background: url(../img/section3.webp) center top/cover no-repeat;
+    padding: 150px 0
+}
+
+.life-at-lm-3 h2 {
+    color: #0571b5;
+    font-size: 50px;
+    text-transform: none !important;
+    margin-bottom: 10px;
+    text-shadow: none !important;
+    line-height: 55px;
+    -webkit-animation: none !important;
+    animation: none !important;
+    text-align: left
+}
+
+.img-offer {
+    width: 100px;
+    height: 100px !important;
+    margin-right: 10px
+}
+
+.padding-fix {
+    padding-top: 150px !important;
+    padding-bottom: 150px !important
+}
+
+.corporate-list,
+.text-align-center {
+    text-align: center
+}
+
+.corporate-list li {
+    padding: 10px 30px;
+    background: #fff;
+    font-size: 22px;
+    border-radius: 12px;
+    color: #000;
+    text-transform: uppercase;
+    display: inline-block;
+    margin: 10px
+}
+
+.life-at-lm-4 h2,
+.locate-scetion h3 {
+    text-transform: none !important;
+    text-shadow: none !important;
+    -webkit-animation: none !important
+}
+
+.life-at-lm-4 {
+    background-image: url(../img/life-at-lm/kicker-club-bg.webp);
+    padding: 100px 00 150px 0;
+    margin-top: -50px
+}
+
+.admission-section.tie-up,
+.life-at-lm-5,
+section.features7-section.locate-scetion {
+    margin-top: -100px;
+    position: relative;
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center top
+}
+
+.admission-section.tie-up {
+    background-image: url(../img/tie-up-section.webp);
+    padding: 200px 0 100px !important;
+    z-index: 1
+}
+
+section.features7-section.locate-scetion {
+    background-image: url(../img/locate-scetion.webp);
+    padding: 200px 0 100px !important;
+    z-index: 9999
+}
+
+.locate-scetion h3 {
+    color: #000;
+    font-size: 40px;
+    margin-bottom: 20px;
+    line-height: 60px;
+    animation: none !important
+}
+
+.admission-section.tie-up .preschool-admission-heading h3,
+.life-at-lm-4 h2 {
+    font-weight: 400 !important;
+    line-height: 55px;
+    text-align: left;
+    font-family: Appleberry
+}
+
+.locate-scetion .btn-primary {
+    background: #0a68af;
+    border: none
+}
+
+.life-at-lm-4 h2 {
+    color: #fff;
+    font-size: 50px;
+    margin-bottom: 10px;
+    animation: none !important
+}
+
+.admission-section.tie-up .preschool-admission-heading h3,
+.life-at-lm .we-all-want p {
+    text-transform: none !important;
+    text-shadow: none !important;
+    -webkit-animation: none !important
+}
+
+.life-at-lm-5 {
+    background-image: url(../img/life-at-lm/18.webp);
+    padding: 50px 00 150px 0;
+    z-index: 1
+}
+
+.event-celebration-img,
+.photo-gallary-img {
+    position: relative
+}
+
+.event-celebration-p1 {
+    font-size: 40px;
+    font-family: Appleberry;
+    position: absolute;
+    color: #fff;
+    top: 6%;
+    line-height: 35px
+}
+
+.event-celebration-img-2,
+.photo-gallary-img-2 {
+    position: absolute;
+    top: 22%;
+    height: 186px;
+    left: 9%
+}
+
+.event-celebration-p2,
+.photo-gallary-p2 {
+    color: #fff;
+    position: absolute;
+    top: 60%;
+    font-size: 16px;
+    line-height: 22px;
+    padding-right: 35px;
+    padding-left: 20px
+}
+
+.photo-gallary-p1 {
+    font-size: 40px;
+    font-family: Appleberry;
+    position: absolute;
+    color: #fff;
+    top: 6%;
+    left: 30%;
+    line-height: 35px
+}
+
+.view-more-btn-img {
+    position: absolute;
+    top: 76%;
+    left: 24%;
+    height: 37px
+}
+
+.life-at-lm img {
+    height: 450px
+}
+
+.life-at-lm-2 img,
+.life-at-lm-4 img {
+    height: 410px
+}
+
+.admission-section.tie-up .preschool-admission-heading h3 {
+    color: #000;
+    font-size: 30px;
+    margin-bottom: 30px;
+    animation: none !important;
+    margin-top: -20px
+}
+
+.life-at-lm .we-all-want p {
+    color: #fff;
+    font-family: 'open sans';
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 10px;
+    line-height: 26px;
+    animation: none !important;
+    text-align: left
+}
+
+.admission-form h2,
+.life-at-lm .newicons p {
+    -webkit-animation: none !important;
+    text-align: left;
+    font-family: 'open sans';
+    text-transform: none !important;
+    text-shadow: none !important
+}
+
+.life-at-lm .newicons p {
+    color: #fff;
+    font-size: 15px;
+    font-weight: 400 !important;
+    margin-bottom: 10px;
+    line-height: 20px;
+    animation: none !important
+}
+
+.admission-section-2 .single-feature h3,
+.admission-section-2 .single-feature p {
+    font-weight: 400;
+    color: #000;
+    text-transform: capitalize;
+    margin-bottom: 10px;
+    margin-top: 10px
+}
+
+.admission-form {
+    padding: 0;
+    border-radius: 20px
+}
+
+.admission-form h2 {
+    font-size: 35px;
+    color: #ffcb00;
+    font-weight: 700;
+    margin-bottom: 10px;
+    line-height: 40px;
+    animation: none !important
+}
+
+.admission-form p {
+    font-size: 16px;
+    color: #fff;
+    font-family: 'open sans'
+}
+
+.admission-form .form-btn {
+    background-color: #ffcb00
+}
+
+.admission-section-2 {
+    background-color: transparent;
+    background-image: url(../img/admission/combined-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center top;
+    position: relative;
+    padding: 50px 0 450px;
+    z-index: 1;
+    margin-top: -150px
+}
+
+.admission-section-2 .single-feature {
+    background: #ffff;
+    padding: 40px;
+    position: relative;
+    -webkit-transition: .5s;
+    transition-duration: .5s;
+    transition-delay: 0s;
+    margin-bottom: 30px;
+    box-shadow: 0 3px 14px #838080;
+    border-radius: 5%
+}
+
+.admission-section-2 .single-feature .image1,
+.admission-section-2 .single-feature .image2,
+.admission-section-2 .single-feature .image3 {
+    position: absolute;
+    top: -85px;
+    left: 41px
+}
+
+.admission-section-2 .single-feature h3 {
+    font-family: appleberry;
+    font-size: 20px;
+    padding-top: 50px
+}
+
+.admission-section-2 .single-feature p {
+    font-family: 'Open Sans';
+    font-size: 17px;
+    line-height: 28px
+}
+
+.admission-pink-background {
+    background-color: transparent;
+    background-image: url(../img/admission/Asset45.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center top;
+    position: relative;
+    padding: 50px 0 0;
+    z-index: 1;
+    margin-top: -100px
+}
+
+.testimonial-section-admission {
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center top;
+    position: relative;
+    padding: 50px 0;
+    z-index: 999
+}
+
+.testimonial-section-admission .single-slider .slider-text h3 {
+    color: #0066b2 !important;
+    font-family: Appleberry;
+    font-size: 70px;
+    font-weight: 400 !important;
+    text-transform: none !important;
+    margin-bottom: 20px;
+    text-shadow: none !important;
+    line-height: 80px;
+    -webkit-animation: none !important;
+    animation: none !important
+}
+
+.testimonial-section-admission .single-slider {
+    margin-top: -30%
+}
+
+.testimonial-section-admission .single-testimonial .test-text-img p {
+    position: absolute;
+    top: 35px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    font-weight: 400;
+    font-style: italic;
+    font-size: 14px;
+    line-height: 25px !important;
+    max-width: 225px;
+    margin: auto;
+    color: #fff
+}
+
+.call-us-div {
+    padding-top: 15px;
+    display: flex
+}
+
+.admission-form-bottom-p {
+    color: #fff;
+    padding-left: 15px
+}
+
+.admission-section-2-row {
+    padding-top: 100px
+}
+
+.admission-readmore {
+    height: 30px;
+    text-align: bottom
+}
+
+.only-mobile {
+    display: none
+}
+
+.only-desktop {
+    display: block
+}
+
+@media only screen and (max-width:767px) {
+
+    .life-at-lm .preschool-admission-heading h2,
+    .life-at-lm-3 h2 {
+        font-weight: 400 !important;
+        text-transform: none !important;
+        margin-bottom: 10px;
+        text-shadow: none !important;
+        -webkit-animation: none !important;
+        text-align: left
+    }
+
+    .only-mobile {
+        display: block
+    }
+
+    .only-desktop {
+        display: none
+    }
+
+    .life-at-lm .preschool-admission-heading h2 {
+        color: #fced1e;
+        font-family: Appleberry;
+        font-size: 40px;
+        line-height: 50px;
+        animation: none !important
+    }
+
+    .event-celebration-img-2,
+    .photo-gallary-img-2 {
+        position: absolute;
+        top: 27%;
+        height: 170px;
+        left: 12%
+    }
+
+    .event-celebration-p1,
+    .photo-gallary-p1 {
+        font-size: 35px;
+        color: #fff;
+        top: 6%;
+        line-height: 35px;
+        font-family: Appleberry;
+        position: absolute
+    }
+
+    .photo-gallary-p1 {
+        left: 30%
+    }
+
+    .life-at-lm-3 h2 {
+        color: #0571b5;
+        font-family: Appleberry;
+        font-size: 30px;
+        line-height: 30px;
+        animation: none !important
+    }
+
+    .life-at-lm-4 h2,
+    .life-at-lm-5 h2 {
+        font-size: 30px;
+        font-weight: 400 !important;
+        text-transform: none !important;
+        text-shadow: none !important;
+        line-height: 30px;
+        -webkit-animation: none !important;
+        font-family: Appleberry
+    }
+
+    .life-at-lm-5 h2 {
+        color: #fced1e;
+        margin-bottom: 10px;
+        animation: none !important;
+        text-align: left
+    }
+
+    .life-at-lm .newicons p,
+    .life-at-lm .we-all-want p,
+    .life-at-lm-4 h2 {
+        color: #fff;
+        margin-bottom: 10px;
+        text-align: left
+    }
+
+    .view-more-btn-img {
+        position: absolute;
+        top: 76%;
+        left: 28%;
+        height: 37px
+    }
+
+    .life-at-lm,
+    .life-at-lm-3,
+    .life-at-lm-4 {
+        background-color: transparent;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center top;
+        position: relative
+    }
+
+    .life-at-lm {
+        background-image: url(../img/life-at-lm/20.webp);
+        padding: 50px 0 150px;
+        margin-top: 80px;
+        z-index: 1
+    }
+
+    .life-at-lm-3 {
+        background-image: url(../img/life-at-lm/life-at-little-millennium_2.1.webp);
+        padding: 50px 00 50px 0;
+        margin-top: 0;
+        z-index: 1
+    }
+
+    .life-at-lm-4 {
+        background-image: url(../img/life-at-lm/kicker-club-bg.webp);
+        padding: 100px 00 100px 0;
+        margin-top: -50px;
+        z-index: 1
+    }
+
+    .life-at-lm-5,
+    .life-at-lm-6 {
+        margin-top: -100px;
+        z-index: 1;
+        background-color: transparent;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center top;
+        position: relative
+    }
+
+    .life-at-lm-4 h2 {
+        animation: none !important;
+        padding-top: 50px
+    }
+
+    .life-at-lm .we-all-want p,
+    .testimonial-section-admission .single-slider .slider-text h3 {
+        -webkit-animation: none !important;
+        font-weight: 400 !important;
+        text-transform: none !important;
+        text-shadow: none !important
+    }
+
+    .life-at-lm-5 {
+        background-image: url(../img/life-at-lm/18.webp);
+        padding: 100px 00 100px 0
+    }
+
+    .life-at-lm-6 {
+        background-image: url(../img/life-at-lm/5.webp);
+        padding: 150px 00 50px 0
+    }
+
+    .life-at-lm img,
+    .life-at-lm-2 img,
+    .life-at-lm-4 img {
+        height: 250px
+    }
+
+    .text-align-center {
+        text-align: center
+    }
+
+    .testimonial-section-admission {
+        background-color: transparent;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center top;
+        position: relative;
+        padding: 50px 0;
+        z-index: 999
+    }
+
+    .admission-pink-background,
+    .admission-section-2,
+    section.about-us-section,
+    section.life-at-lm-section {
+        background-color: transparent;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center top;
+        position: relative;
+        z-index: 1
+    }
+
+    .testimonial-section-admission .single-slider {
+        margin-top: -20%
+    }
+
+    .testimonial-section-admission .single-slider .slider-text h3 {
+        color: #fff !important;
+        font-family: Appleberry;
+        font-size: 30px !important;
+        margin-bottom: 0;
+        line-height: 80px;
+        animation: none !important
+    }
+
+    .admission-section-2-row {
+        padding-top: 0
+    }
+
+    .admission-pink-background {
+        background-image: url(../img/admission/Asset37-01.png);
+        padding: 50px 0 0;
+        margin-top: -50%
+    }
+
+    .admission-section-2 .single-feature .image1,
+    .admission-section-2 .single-feature .image2,
+    .admission-section-2 .single-feature .image3 {
+        position: absolute;
+        top: -85px;
+        left: 92px
+    }
+
+    .admission-section-2 {
+        background-image: url(../img/admission/combinedBG.png);
+        padding: 50px 0 280px;
+        margin-top: -50%
+    }
+
+    .life-at-lm .col-md-6 {
+        padding-bottom: 15px
+    }
+
+    .life-at-lm .we-all-want p {
+        font-family: 'open sans';
+        font-size: 16px;
+        line-height: 20px;
+        animation: none !important
+    }
+
+    .life-at-lm .newicons p {
+        font-family: 'open sans';
+        font-size: 12px;
+        font-weight: 400 !important;
+        text-transform: none !important;
+        text-shadow: none !important;
+        line-height: 20px;
+        -webkit-animation: none !important;
+        animation: none !important
+    }
+
+    section.about-us-section,
+    section.life-at-lm-section {
+        padding: 50px 0 200px;
+        margin-top: 80px
+    }
+
+    .admission-readmore {
+        height: 25px;
+        margin-bottom: 20px;
+        text-align: bottom
+    }
+}
+
+@media only screen and (min-width:768px) and (max-width:991px) {
+
+    .life-at-lm .newicons p,
+    .life-at-lm .we-all-want p {
+        color: #fff;
+        font-family: 'open sans';
+        font-weight: 400 !important;
+        text-transform: none !important;
+        margin-bottom: 10px;
+        text-shadow: none !important;
+        line-height: 20px;
+        text-align: left
+    }
+
+    .life-at-lm .we-all-want p {
+        font-size: 16px;
+        -webkit-animation: none !important;
+        animation: none !important
+    }
+
+    .event-celebration-p2,
+    .photo-gallary-p2 {
+        left: 25%;
+        width: 50%
+    }
+
+    .preschool-admission-heading {
+        padding-top: 65px
+    }
+
+    .life-at-lm .newicons p {
+        font-size: 12px;
+        -webkit-animation: none !important;
+        animation: none !important
+    }
+}
+
+@media only screen and (min-width:992px) and (max-width:1199px) {
+
+    .life-at-lm .newicons p,
+    .life-at-lm .we-all-want p {
+        color: #fff;
+        font-family: 'open sans';
+        font-weight: 400 !important;
+        text-transform: none !important;
+        margin-bottom: 10px;
+        text-shadow: none !important;
+        line-height: 20px;
+        text-align: left
+    }
+
+    .preschool-admission-heading {
+        padding-top: 65px
+    }
+
+    .event-celebration-p2,
+    .photo-gallary-p2 {
+        left: 25%;
+        width: 50%
+    }
+
+    .life-at-lm .we-all-want p {
+        font-size: 16px;
+        -webkit-animation: none !important;
+        animation: none !important
+    }
+
+    .admission-section-2 .single-feature .image1 {
+        position: absolute;
+        top: -85px;
+        left: 20px
+    }
+
+    .life-at-lm .newicons p {
+        font-size: 12px;
+        -webkit-animation: none !important;
+        animation: none !important
+    }
+}

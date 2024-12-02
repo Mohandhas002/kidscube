@@ -1,0 +1,819 @@
+.curriculum-section .preschool-admission-heading h2,
+.program_level_at_lm_h3 {
+    color: #fff;
+    font-family: Appleberry;
+    font-size: 50px;
+    font-weight: 400 !important;
+    text-transform: none !important;
+    text-shadow: none !important;
+    -webkit-animation: none !important
+}
+
+.curriculum-section-2,
+section.about-us-section {
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center top;
+    position: relative
+}
+
+.curriculum-section .preschool-admission-heading h2 {
+    margin-bottom: 10px;
+    line-height: 55px;
+    animation: none !important;
+    text-align: left
+}
+
+.program_level_at_lm_h3 {
+    margin-bottom: 20px;
+    line-height: 60px;
+    animation: none !important;
+    padding-bottom: 0
+}
+
+.curriculum-section-2 .single-slider .slider-text h3,
+.curriculum-section-4 .single-slider h3,
+.curriculum-section-pl .single-slider h3 {
+    text-transform: none !important;
+    text-shadow: none !important;
+    -webkit-animation: none !important;
+    color: #0571b5;
+    font-size: 50px;
+    font-family: Appleberry;
+    font-weight: 400 !important;
+    margin-bottom: 20px;
+    line-height: 80px
+}
+
+#bl_logo_curriculum {
+    height: 100px
+}
+
+.admission-testi-slider {
+    padding: 15px
+}
+
+.level-mobile,
+.only-desktop,
+.only-mobile {
+    display: none
+}
+
+.level-desktop,
+.only-desktop {
+    display: block
+}
+
+.call-us-div,
+.newicons {
+    display: flex
+}
+
+.curriculum-section-2 {
+    background-image: url(../img/curriculum/5.png);
+    margin-top: -70px;
+    z-index: 999;
+    padding-top: 100px
+}
+
+.curriculum-section-2 .single-slider .slider-text h3 {
+    animation: none !important
+}
+
+.curriculum-section-4 .single-slider h3,
+.curriculum-section-pl .single-slider h3 {
+    animation: none !important;
+    position: absolute;
+    top: 12%;
+    left: 45%
+}
+
+.curriculum-section .newicons p,
+.curriculum-section .we-all-want p {
+    color: #fff;
+    font-family: 'open sans';
+    text-transform: none !important;
+    margin-bottom: 10px;
+    text-shadow: none !important;
+    -webkit-animation: none !important
+}
+
+.curriculum-section-4 .program-section-curriculum-p-1,
+.curriculum-section-pl .program-section-curriculum-p-1 {
+    color: #0571b5;
+    font-family: 'open sans';
+    position: absolute;
+    top: 29%;
+    left: 45%;
+    font-size: 20px;
+    font-weight: 700
+}
+
+.program-section-curriculum-p-2 {
+    color: #0571b5;
+    font-family: 'open sans';
+    position: absolute;
+    top: 40%;
+    left: 45%;
+    font-size: 16px;
+    font-weight: 400;
+    padding-right: 50px
+}
+
+section.about-us-section {
+    background-image: url(../img/admission/webp/bg1.webp);
+    padding: 50px 0 90px;
+    margin-top: 0;
+    z-index: 1
+}
+
+.curriculum-section .we-all-want p {
+    font-size: 16px;
+    line-height: 26px;
+    animation: none !important;
+    text-align: left
+}
+
+.curriculum-section .newicons p {
+    font-size: 15px;
+    font-weight: 400 !important;
+    line-height: 20px;
+    animation: none !important
+}
+
+.admission-form h2,
+.curriculum-section-3 h2 {
+    -webkit-animation: none !important;
+    text-align: left;
+    margin-bottom: 10px;
+    text-transform: none !important;
+    text-shadow: none !important
+}
+
+.curriculum-section-3 h2 {
+    color: #0066b2;
+    font-family: Appleberry;
+    font-size: 50px;
+    font-weight: 400 !important;
+    line-height: 55px;
+    animation: none !important
+}
+
+.admission-form {
+    background-color: #e30045;
+    padding: 20px;
+    border-radius: 20px
+}
+
+.admission-pink-background,
+.admission-section-2,
+.curriculum-section-3,
+.testimonial-section-admission {
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center top;
+    position: relative
+}
+
+.admission-form h2 {
+    font-size: 35px;
+    color: #ffcb00;
+    font-family: 'open sans';
+    font-weight: 700;
+    line-height: 40px;
+    animation: none !important
+}
+
+.admission-form p {
+    font-size: 16px;
+    color: #fff;
+    font-family: 'open sans'
+}
+
+.admission-form .form-btn {
+    background-color: #ffcb00
+}
+
+.admission-section-2 {
+    background-image: url(../img/admission/webp/combined-bg.webp);
+    padding: 50px 0 450px;
+    z-index: 1;
+    margin-top: -100px
+}
+
+.curriculum-section-3 {
+    background-image: url(../img/curriculum/6.png);
+    padding: 50px 0 100px;
+    z-index: 1;
+    margin-top: 0
+}
+
+.admission-section-2 .single-feature,
+.curriculum-section-3 .single-feature {
+    background: #ffff;
+    padding: 40px;
+    position: relative;
+    -webkit-transition: .5s;
+    transition-duration: .5s;
+    transition-delay: 0s;
+    margin-bottom: 30px;
+    box-shadow: 0 3px 14px #838080;
+    border-radius: 5%
+}
+
+.admission-section-2 .single-feature .image1,
+.admission-section-2 .single-feature .image2,
+.admission-section-2 .single-feature .image3,
+.curriculum-section-3 .single-feature .image1,
+.curriculum-section-3.single-feature .image2 {
+    position: absolute;
+    top: -85px;
+    left: 41px
+}
+
+.admission-section-2 .single-feature h3,
+.curriculum-section-3 .single-feature h3 {
+    font-family: appleberry;
+    font-size: 20px;
+    font-weight: 400;
+    color: #000;
+    text-transform: capitalize;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    padding-top: 50px
+}
+
+.admission-section-2 .single-feature p,
+.curriculum-section-3 .single-feature p {
+    font-family: 'Open Sans';
+    font-size: 17px;
+    line-height: 28px;
+    font-weight: 400;
+    color: #000;
+    text-transform: capitalize;
+    margin-bottom: 10px;
+    margin-top: 10px
+}
+
+.admission-pink-background {
+    background-image: url(../img/admission/webp/Asset45.webp);
+    padding: 50px 0 0;
+    z-index: 1;
+    margin-top: -100px
+}
+
+.testimonial-section-admission {
+    padding: 50px 0;
+    z-index: 999
+}
+
+.curriculum-section-4,
+.curriculum-section-pl {
+    margin-top: -90px;
+    z-index: 0;
+    padding-bottom: 150px !important;
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center top;
+    position: relative
+}
+
+.testimonial-section-admission .single-slider .slider-text h3 {
+    color: #0066b2 !important;
+    font-family: Appleberry;
+    font-size: 70px;
+    font-weight: 400 !important;
+    text-transform: none !important;
+    margin-bottom: 20px;
+    text-shadow: none !important;
+    line-height: 80px;
+    -webkit-animation: none !important;
+    animation: none !important
+}
+
+.testimonial-section-admission .single-slider {
+    margin-top: -22%
+}
+
+.testimonial-section-admission .single-testimonial .test-text-img p {
+    position: absolute;
+    top: 35px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    font-weight: 400;
+    font-style: italic;
+    font-size: 14px;
+    line-height: 25px !important;
+    max-width: 225px;
+    margin: auto;
+    color: #fff
+}
+
+.call-us-div {
+    padding-top: 15px
+}
+
+.admission-form-bottom-p {
+    color: #fff;
+    padding-left: 15px
+}
+
+.admission-section-2-row {
+    padding-top: 0
+}
+
+.admission-readmore {
+    height: 30px;
+    text-align: bottom
+}
+
+.curriculum-section-4 {
+    background-image: url(../img/admission/webp/2.webp);
+    padding-top: 150px
+}
+
+.curriculum-section-pl {
+    padding-top: 50px
+}
+
+.program-section-curriculum {
+    position: relative
+}
+
+.curriculum-main-banner-icon {
+    height: 50px
+}
+
+.curriculum-blended-learning-logo {
+    margin-top: 20px
+}
+
+.fill-preschool-form,
+.no1 {
+    font-family: appleberry;
+    color: #000;
+    font-weight: 700;
+    text-transform: capitalize;
+    margin-bottom: 10px;
+    margin-top: 10px
+}
+
+.newicons-div {
+    width: 31.5%;
+    padding: 5px;
+    text-align: center
+}
+
+.pb50-d {
+    padding-bottom: 50px
+}
+
+.admission-process-box {
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 15px
+}
+
+.fill-preschool-form {
+    font-size: 20px
+}
+
+.no1 {
+    font-size: 35px
+}
+
+.subheading_h3 {
+    color: #fff
+}
+
+#pl_curriculum_ {
+    background-color: #0066b2 !important
+}
+
+@media only screen and (max-width:767px) {
+
+    .curriculum-section-2,
+    .testimonial-section-admission {
+        z-index: 999;
+        background-color: transparent;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center top;
+        position: relative
+    }
+
+    .program_level_at_lm_h3 {
+        color: #fff;
+        font-family: Appleberry;
+        font-size: 30px;
+        font-weight: 400 !important;
+        text-transform: none !important;
+        margin-bottom: 10px;
+        text-shadow: none !important;
+        line-height: 30px;
+        -webkit-animation: none !important;
+        animation: none !important;
+        text-align: center
+    }
+
+    .curriculum-section-3 h2,
+    .curriculum-section-4 .single-slider h3,
+    .curriculum-section-pl .single-slider h3 {
+        font-weight: 400 !important;
+        text-transform: none !important;
+        text-shadow: none !important;
+        -webkit-animation: none !important;
+        font-family: Appleberry
+    }
+
+    .curriculum-section-3 h2 {
+        color: #0066b2;
+        font-size: 40px;
+        margin-bottom: 10px;
+        line-height: 50px;
+        animation: none !important;
+        text-align: left
+    }
+
+    .level-desktop {
+        display: none
+    }
+
+    .level-mobile,
+    .newicons {
+        display: block
+    }
+
+    .curriculum-section-4 .program-section-curriculum-p-1,
+    .curriculum-section-pl .program-section-curriculum-p-1 {
+        color: #fff;
+        font-family: 'open sans';
+        position: relative;
+        top: 29%;
+        left: 0;
+        font-size: 20px;
+        font-weight: 700
+    }
+
+    .program-section-curriculum-p-2 {
+        color: #fff;
+        font-family: 'open sans';
+        position: relative;
+        top: 40%;
+        left: 0;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 1.5;
+        padding-right: 0
+    }
+
+    .curriculum-section-4 .single-slider h3,
+    .curriculum-section-pl .single-slider h3 {
+        color: #fff;
+        font-size: 30px;
+        line-height: 30px;
+        animation: none !important;
+        position: relative;
+        top: 10%;
+        left: 0;
+        margin-bottom: 0;
+        padding-top: 10px
+    }
+
+    .curriculum-section .newicons p,
+    .curriculum-section .we-all-want p {
+        color: #fff;
+        font-family: 'open sans';
+        font-weight: 400 !important;
+        text-transform: none !important;
+        margin-bottom: 10px;
+        text-shadow: none !important;
+        line-height: 20px
+    }
+
+    .curriculum-section-2 {
+        background-image: url(../img/curriculum/5.png);
+        margin-top: -150px;
+        padding-top: 100px
+    }
+
+    .testimonial-section-admission {
+        padding: 50px 0
+    }
+
+    .testimonial-section-admission .single-slider {
+        margin-top: -20%
+    }
+
+    .testimonial-section-admission .single-slider .slider-text h3 {
+        color: #fff !important;
+        font-family: Appleberry;
+        font-size: 30px !important;
+        font-weight: 400 !important;
+        text-transform: none !important;
+        margin-bottom: 0;
+        text-shadow: none !important;
+        line-height: 80px;
+        -webkit-animation: none !important;
+        animation: none !important
+    }
+
+    .admission-section-2-row {
+        padding-top: 0
+    }
+
+    .admission-pink-background {
+        background-color: transparent;
+        background-image: url(../img/admission/Asset37-01.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center top;
+        position: relative;
+        padding: 50px 0 0;
+        z-index: 1;
+        margin-top: -50%
+    }
+
+    .admission-section-2,
+    .curriculum-section-3 .admission-section-2 {
+        background-color: transparent;
+        background-image: url(../img/admission/webp/combined-bg.webp);
+        padding: 50px 0 280px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center top;
+        position: relative;
+        z-index: 1
+    }
+
+    .admission-section-2 .single-feature .image1,
+    .admission-section-2 .single-feature .image2,
+    .admission-section-2 .single-feature .image3 {
+        position: absolute;
+        top: -85px;
+        left: 92px
+    }
+
+    .admission-section-2 {
+        margin-top: -50
+    }
+
+    .curriculum-section-3 .admission-section-2 {
+        margin-top: -50%
+    }
+
+    .curriculum-section .col-md-6 {
+        padding-bottom: 15px
+    }
+
+    .curriculum-section .we-all-want p {
+        font-size: 16px;
+        -webkit-animation: none !important;
+        animation: none !important;
+        text-align: left
+    }
+
+    .curriculum-section .newicons p {
+        font-size: 14px;
+        -webkit-animation: none !important;
+        animation: none !important
+    }
+
+    section.about-us-section {
+        background-color: #0066b2;
+        background-image: none;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center top;
+        position: relative;
+        padding: 50px 0 200px;
+        margin-top: 80px;
+        z-index: 1;
+        padding-bottom: 0 !important
+    }
+
+    .admission-readmore {
+        height: 25px;
+        margin-bottom: 20px;
+        text-align: bottom
+    }
+
+    .curriculum-main-banner-icon {
+        height: 50px
+    }
+
+    .curriculum-blended-learning-logo {
+        margin-top: 0
+    }
+
+    .brain-in-heart {
+        height: 250px
+    }
+}
+
+.curriculum-section-3 .admission-section-2 {
+    background-color: transparent;
+    background-image: url(../img/admission/combinedBG.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center top;
+    position: relative;
+    padding: 50px 0 280px;
+    z-index: 1;
+    margin-top: -50%
+}
+
+@media only screen and (min-width:768px) and (max-width:991px) {
+    .newicons {
+        display: flex
+    }
+
+    #bl_logo_curriculum {
+        height: 86px
+    }
+
+    .curriculum-section-3 h2 {
+        color: #0066b2;
+        font-family: Appleberry;
+        font-size: 40px;
+        font-weight: 400 !important;
+        text-transform: none !important;
+        margin-bottom: 10px;
+        text-shadow: none !important;
+        line-height: 50px;
+        -webkit-animation: none !important;
+        animation: none !important;
+        text-align: left
+    }
+
+    .curriculum-section .we-all-want p,
+    .curriculum-section-4 .single-slider h3,
+    .curriculum-section-pl .single-slider h3 {
+        -webkit-animation: none !important;
+        font-weight: 400 !important;
+        text-transform: none !important;
+        text-shadow: none !important
+    }
+
+    .curriculum-section .we-all-want p {
+        color: #fff;
+        font-family: 'open sans';
+        font-size: 16px;
+        margin-bottom: 10px;
+        line-height: 20px;
+        animation: none !important
+    }
+
+    .curriculum-main-banner-icon {
+        height: 50px
+    }
+
+    section.about-us-section {
+        background-color: #0066b2;
+        background-image: none;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center top;
+        position: relative;
+        padding: 50px 0 200px;
+        margin-top: 80px;
+        z-index: 1
+    }
+
+    .curriculum-section-4 .single-slider h3,
+    .curriculum-section-pl .single-slider h3 {
+        color: #0571b5;
+        font-family: Appleberry;
+        font-size: 30px;
+        margin-bottom: 20px;
+        line-height: 30px;
+        animation: none !important;
+        position: absolute;
+        top: 15%;
+        left: 45%
+    }
+
+    .curriculum-section .newicons p {
+        color: #fff;
+        font-family: 'open sans';
+        font-size: 12px;
+        font-weight: 400 !important;
+        text-transform: none !important;
+        margin-bottom: 10px;
+        text-shadow: none !important;
+        line-height: 20px;
+        -webkit-animation: none !important;
+        animation: none !important;
+        text-align: left
+    }
+
+    .curriculum-section-4 .program-section-curriculum-p-1,
+    .curriculum-section-pl .program-section-curriculum-p-1 {
+        color: #0571b5;
+        font-family: 'open sans';
+        position: absolute;
+        top: 28%;
+        left: 45%;
+        font-size: 16px;
+        font-weight: 700
+    }
+
+    .curriculum-blended-learning-logo {
+        margin-top: 45px
+    }
+
+    .pb50-d {
+        padding-bottom: 0
+    }
+}
+
+@media only screen and (min-width:992px) and (max-width:1199px) {
+
+    .curriculum-section-3 h2,
+    .curriculum-section-4 .single-slider h3,
+    .curriculum-section-pl .single-slider h3 {
+        font-family: Appleberry;
+        font-weight: 400 !important;
+        text-transform: none !important;
+        text-shadow: none !important;
+        line-height: 30px
+    }
+
+    .curriculum-section-4 .program-section-curriculum-p-1,
+    .curriculum-section-pl .program-section-curriculum-p-1 {
+        color: #0571b5;
+        font-family: 'open sans';
+        position: absolute;
+        top: 33%;
+        left: 45%;
+        font-size: 20px;
+        font-weight: 700
+    }
+
+    .pb50-d {
+        padding-bottom: 0
+    }
+
+    .curriculum-section-3 h2 {
+        color: #0066b2;
+        font-size: 40px;
+        margin-bottom: 10px;
+        -webkit-animation: none !important;
+        animation: none !important;
+        text-align: left
+    }
+
+    .curriculum-section-4 .single-slider h3,
+    .curriculum-section-pl .single-slider h3 {
+        color: #0571b5;
+        font-size: 50px;
+        margin-bottom: 20px;
+        -webkit-animation: none !important;
+        animation: none !important;
+        position: absolute;
+        top: 20%;
+        left: 45%
+    }
+
+    .curriculum-section .newicons p,
+    .curriculum-section .we-all-want p {
+        color: #fff;
+        font-family: 'open sans';
+        font-weight: 400 !important;
+        text-transform: none !important;
+        margin-bottom: 10px;
+        text-shadow: none !important;
+        line-height: 20px;
+        text-align: left
+    }
+
+    .curriculum-section .we-all-want p {
+        font-size: 16px;
+        -webkit-animation: none !important;
+        animation: none !important
+    }
+
+    .admission-section-2 .single-feature .image1 {
+        position: absolute;
+        top: -85px;
+        left: 20px
+    }
+
+    .curriculum-section .newicons p {
+        font-size: 12px;
+        -webkit-animation: none !important;
+        animation: none !important
+    }
+
+    .curriculum-main-banner-icon {
+        height: 50px
+    }
+
+    .curriculum-blended-learning-logo {
+        margin-top: 0
+    }
+}
